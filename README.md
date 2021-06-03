@@ -1,5 +1,5 @@
 # Baekjoon-Solution
 BOJ Solutions repository
 
-Solutions by algorithms & class.
- Class: 2, 3
+Solutions by algorithms & class.  
+Class: 2, 3
