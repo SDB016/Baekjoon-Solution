@@ -1,5 +1,5 @@
 # Baekjoon-Solution
-Baekjoon Solutions repository
+Baekjoon Solutions
 
 Solutions by algorithms & class.  
 Algorithms: DFS & BFS, DP, GREEDY, IMPLEMENTATION  
